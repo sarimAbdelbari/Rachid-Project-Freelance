@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import 'primeicons/primeicons.css';
+@import 'primereact/resources/primereact.min.css';
+@import 'primereact/resources/themes/saga-blue/theme.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding:0;
+    font-family: "Open Sans", sans-serif;
+}
+
